@@ -9,5 +9,10 @@
 # git clone https://github.com/Aryanjan002/afg_clone
 # cd afg_clone
 # python2 Aryanhacker.py 
+# Username Aryan 
+# password Hacker 
+
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
+
+
